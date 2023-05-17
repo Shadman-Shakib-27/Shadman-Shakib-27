@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadman-Shakib-27
 - 👀 I’m interested in [Web Development].
-- 🌱 I’m currently learning [Javascript].
+- 🌱 I’m currently learning [Full Stack Project].
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [https://web.facebook.com/Shadman.Shakib.Alvi.27]
 

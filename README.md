@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadman Shakib</h1>
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadman-shakib-27&label=Profile%20views&color=0e75b6&style=flat" alt="shadman-shakib-27" /> </p>
 

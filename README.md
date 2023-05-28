@@ -1,3 +1,4 @@
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif"/>
 <h1 align="center">Hi 👋, I'm Shadman Shakib</h1>
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif"/>

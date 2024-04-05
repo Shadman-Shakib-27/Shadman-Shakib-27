@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shadman Shakib<br><br>A Passionate MERN Stack Developer From Bangladesh
+Hi 👋, I'm Shadman Shakib<br><br>A Passionate Frontend Developer From Bangladesh
 
 
 ## 🌐 Socials:

@@ -6,6 +6,11 @@
 # Frontend Developer | Next JS Developer
 Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with expertise in HTML5, CSS3, JavaScript, TypeScript, React.js, Next Js. I also know about (MERN) backend technology such as Express.js, MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. Eager to contribute my skills in turning ideas into dynamic web solutions. I believe I don’t know everything, so each day gifts me the opportunity to learn something new and improve myself.
 
+* 🌍  I'm born in Mymensingh, Bangladesh
+* 🖥️  See my portfolio at [https://nazzmul.netlify.app/](http://https://nazzmul.netlify.app/)
+* ✉️  You can contact me at [nazmul.hussain.utchash@gmail.com](mailto:nazmul.hussain.utchash@gmail.com)
+* 🧠  I'm learning Redux, Docker, SQL
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shadman.shakib.alvi.27) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/https://www.facebook.com/shadman.shakib.alvi.27) 
 

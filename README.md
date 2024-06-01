@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 # Shadman Shakib
-
+### Frontend Developer | Next JS Developer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shadman.shakib.alvi.27) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/https://www.facebook.com/shadman.shakib.alvi.27) 

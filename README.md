@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/Shadman-Shakib-27/Shadman-Shakib-27/blob/main/capture-every-m_64202781.png)
+![I am GitHub Readme Generator's creator](https://github.com/Shadman-Shakib-27/Shadman-Shakib-27/blob/main/my_github_banner.png)
 
 ## 💫 About Me:
 # Shadman Shakib

@@ -21,6 +21,15 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shadman-Shakib-27&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/the-nazzmul"><img src="https://github-readme-stats.vercel.app/api?username=the-nazzmul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="the-nazzmul's GitHub stats" /></a>
+
+<a href="http://www.github.com/the-nazzmul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=the-nazzmul&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/the-nazzmul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-nazzmul&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shadman-Shakib-27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

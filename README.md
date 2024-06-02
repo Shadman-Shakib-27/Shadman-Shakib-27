@@ -3,7 +3,7 @@
 ## 💫 About Me:
 # Shadman Shakib
 ## 💫 You Can Call Me As:
-# Frontend Developer | Next JS Developer
+## Frontend Developer | Next JS Developer
 Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with expertise in HTML5, CSS3, JavaScript, TypeScript, React.js, Next Js. I also know about (MERN) backend technology such as Express.js, MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. Eager to contribute my skills in turning ideas into dynamic web solutions. I believe I don’t know everything, so each day gifts me the opportunity to learn something new and improve myself.
 
 * 🌍  I'm belongs from Mymensingh, Bangladesh

@@ -19,7 +19,7 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shadman-Shakib-27&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shadman-Shakib-27&theme=dark&hide_border=false)
-<a href="https://github.com/Shadman-Shakib-27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used%20%By%20%Shadman%20%Shakib" alt="Top Languages" /></a>
+<a href="https://github.com/Shadman-Shakib-27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=00A6ED&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used%20%By%20%Shadman%20%Shakib" alt="Top Languages" /></a>
 
 
 

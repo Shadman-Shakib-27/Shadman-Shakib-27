@@ -21,7 +21,7 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadman-shakib-27&show_icons=true&locale=en&bg_color=1c1917&text_color=ffffff&hide_border=false" alt="shadman-shakib-27" />
 </p>
-<a href="https://github.com/Shadman-Shakib-27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadman-Shakib-27&stroke=ffffff&background=1c1917&ring=00A6ED&fire=00A6ED&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=00A6ED&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a><br/>
+<a href="https://github.com/Shadman-Shakib-27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadman-Shakib-27&stroke=ffffff&background=1c1917&ring=00A6ED&fire=00A6ED&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=00A6ED&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 <a href="https://github.com/Shadman-Shakib-27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=00A6ED&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used" alt="Top Languages" /></a>
 
 

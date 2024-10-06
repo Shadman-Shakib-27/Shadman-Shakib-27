@@ -28,7 +28,7 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 
 📊 ## My WakaTime Stats
 
-[Check out my coding stats on WakaTime!](https://wakatime.com/dashboard)
+[Check out my coding stats on WakaTime!](https://wakatime.com/share/dashboard)
 
 
 

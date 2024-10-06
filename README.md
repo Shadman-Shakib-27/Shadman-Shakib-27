@@ -1,3 +1,5 @@
+---
+[![](https://visitcount.itsvg.in/api?id=Shadman-Shakib-27&icon=0&color=0)](https://visitcount.itsvg.in)
 ![I am GitHub Readme Generator's creator](https://github.com/Shadman-Shakib-27/Shadman-Shakib-27/blob/main/my_github_banner.png)
 
 ## 💫 About Me:
@@ -29,6 +31,5 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shadman-Shakib-27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Shadman-Shakib-27&icon=0&color=0)](https://visitcount.itsvg.in)
+
 

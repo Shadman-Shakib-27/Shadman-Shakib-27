@@ -26,12 +26,6 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 <br/>
 <a href="https://github.com/Shadman-Shakib-27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=2F80ED&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used" alt="Top Languages" /></a>
 
-<!--START_SECTION:waka-->
-## 📊 My WakaTime Stats
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Shadman)
-<!--END_SECTION:waka-->
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shadman-Shakib-27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

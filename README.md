@@ -30,7 +30,7 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Shadman)
 
-
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2046%20mins-blue)
 
 
 

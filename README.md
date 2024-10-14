@@ -27,7 +27,7 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 
 <a href="https://github.com/Shadman-Shakib-27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadman-Shakib-27&stroke=fffff&background=211742&ring=FFC000&fire=FFC000&currStreakNum=FFC000&currStreakLabel=ffffff&sideNums=FFC000&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 <br/>
-<a href="https://github.com/Shadman-Shakib-27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=FFC000&text_color=ffffff&icon_color=0891b2&bg_color=211742&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used" alt="Top Languages" /></a> make this rsponsive and classy in all device github
+<a href="https://github.com/Shadman-Shakib-27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=FFC000&text_color=ffffff&icon_color=0891b2&bg_color=211742&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used" alt="Top Languages" /></a>
 
 
 ## 🏆 GitHub Trophies

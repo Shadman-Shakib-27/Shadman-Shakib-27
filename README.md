@@ -5,7 +5,7 @@
 ## 💫 About Me:
 # Shadman Shakib
 ## 💫 You Can Call Me As:
-## Frontend Developer | Next JS Developer
+## Frontend Developer | React JS Developer | Next JS Developer
 Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with expertise in HTML5, CSS3, JavaScript, TypeScript, React.js, Next Js. I also know about (MERN) backend technology such as Express.js, MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. Eager to contribute my skills in turning ideas into dynamic web solutions. I believe I don’t know everything, so each day gifts me the opportunity to learn something new and improve myself.
 
 * 🌍  I'm belongs from Mymensingh, Bangladesh
@@ -27,7 +27,8 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 
 <a href="https://github.com/Shadman-Shakib-27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadman-Shakib-27&stroke=fffff&background=211742&ring=FFC000&fire=FFC000&currStreakNum=FFC000&currStreakLabel=ffffff&sideNums=FFC000&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 <br/>
-<a href="https://github.com/Shadman-Shakib-27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=FFC000&text_color=ffffff&icon_color=0891b2&bg_color=211742&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used" alt="Top Languages" /></a>
+<br/>
+<a href="https://github.com/Shadman-Shakib-27" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=FFC000&text_color=ffffff&icon_color=0891b2&bg_color=211742&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used" alt="Top Languages" /></a>
 
 
 ## 🏆 GitHub Trophies

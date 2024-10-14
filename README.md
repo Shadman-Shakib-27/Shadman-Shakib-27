@@ -22,7 +22,7 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 
 # 📊 GitHub Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shadman-shakib-27&show_icons=true&locale=en&bg_color=211742&text_color=ffffff&hide_border=false" alt="shadman-shakib-27" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shadman-shakib-27&show_icons=true&locale=en&bg_color=211742&text_color=FFC000&hide_border=false" alt="shadman-shakib-27" />
 </p>
 <a href="https://github.com/Shadman-Shakib-27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadman-Shakib-27&stroke=ffffff&background=211742&ring=2F80ED&fire=2F80ED&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=2F80ED&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
 <br/>

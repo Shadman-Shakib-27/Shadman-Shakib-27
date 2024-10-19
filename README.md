@@ -33,14 +33,39 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 </a>
   </td>
   </tr>
-
-  <tr>
-    
- [![Shadman Shakib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shadman&layout=compact&bg_color=211742&text_color=ffffff&title_color=FFC000)](#)
-    
-  </tr>
 </table>
-<a href="https://github.com/Shadman-Shakib-27" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=FFC000&text_color=ffffff&icon_color=0891b2&bg_color=211742&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used" alt="Top Languages" /></a>
+
+# 📊 My Coding Time Stats:
+<table border="0">
+  
+<tr>
+  
+  <td >
+
+  [![Shadman Shakib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shadman&bg_color=211742&text_color=ffffff&title_color=FFC000)](#)
+
+
+  </td>
+
+</tr>
+  
+</table>
+
+
+# 📊 Language That Used Mostly:
+<table>
+
+  <td>
+
+  <a href="https://github.com/Shadman-Shakib-27" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadman-Shakib-27&langs_count=10&title_color=FFC000&text_color=ffffff&icon_color=0891b2&bg_color=211742&hide_border=false&locale=en&custom_title=Languages%20%That%20%Mostly%20%Used" alt="Top Languages" /></a>
+    
+    
+  </td>
+  
+</table>
+
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shadman-Shakib-27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---

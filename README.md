@@ -23,7 +23,6 @@ Hi There!!! I am Shadman Shakib. I am a passionate Frontend Developer with exper
 # 📊 My Coding Time Stats:
 [![Shadman Shakib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shadman&layout=compact&bg_color=211742&text_color=ffffff&title_color=FFC000)](#)
 
-
 # 📊 GitHub Stats:
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadman-shakib-27&show_icons=true&locale=en&bg_color=211742&text_color=ffffff&hide_border=false&icon_color=FFC000&title_color=FFC000" alt="shadman-shakib-27"/>

@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Shadman-Shakib-27&icon=0&color=0)](https://visitcount.itsvg.in) [![Code Time Last 7 Days](https://wakatime.com/badge/user/d12295db-baa7-4be7-bbce-3b63e2489080.svg)](https://wakatime.com/@d12295db-baa7-4be7-bbce-3b63e2489080)
+[![](https://visitcount.itsvg.in/api?id=Shadman-Shakib-27&icon=0&color=0)](https://visitcount.itsvg.in) <a href="https://wakatime.com/@d12295db-baa7-4be7-bbce-3b63e2489080"><img src="https://wakatime.com/badge/user/d12295db-baa7-4be7-bbce-3b63e2489080.svg" alt="Total time coded since Oct 6 2024" /></a>
 ---
 ![I am GitHub Readme Generator's creator](https://github.com/Shadman-Shakib-27/Shadman-Shakib-27/blob/main/my_github_banner.png)
 
